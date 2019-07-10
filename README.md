@@ -6,6 +6,8 @@ Sekom Yazılım Coding Challenge
 ->Bir canlı hücrenin 2 yada 3 canlı komşusu varsa aynen devam eder.
 ->Bir ölü hücrenin 3 canlı komşusu varsa canlanır.
 
+![alt text](https://github.com/HilalBudak/Conway-sGameOfLife/blob/master/lifep.png)
+
 
 
 
