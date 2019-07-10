@@ -1,4 +1,4 @@
-# Conway-sGameOfLife
+# Conway'sGameOfLife
 Sekom Yazılım Coding Challenge
 
 ->Bir canlı hücrenin 2'den daha az canlı komşusu varsa ölür.
